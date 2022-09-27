@@ -1,10 +1,8 @@
-# OBJECT DETECTION APPLICATION FOR THE VISUALLY IMPAIRED
-
 #### Description of Repo
 
 - This repo has been prepared to present the Yeditepe University engineering graduation project. The aim of the project and the preparation steps are explained in detail in the related report. Also, source codes are included. Codes will be arranged in order to increase readability and reusability.
 
-## YEDITEPE UNIVERSITY ENGINEERING FINAL YEAR PROJECT
+# OBJECT DETECTION APPLICATION FOR THE VISUALLY IMPAIRED
 
 ### ABSTRACT
 
@@ -20,29 +18,23 @@ comfortably. Finally, it will be subjected to tests on how accurately the create
 detect objects and its behavior in different conditions.
 
 
+## Tech
+- Development Environment with [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwvsqZBhAlEiwAqAHElXhXtm83pzAyF8JVtcE0EKCmXaagZ87T2_NZqWN2o9aG9hJQkbWpAhoCBq4QAvD_BwE&gclsrc=aw.ds)
+- Programming Language with Java
+- Computer Vision with [TensorFlow Lite](https://www.tensorflow.org/lite)
 
-## The attached design report includes:
-- Introduction
-- Detailed Design Class Diagram
-- Sequence Diagrams
-- State Diagrams -
-- Activity Diagrams
-- Software Architecture
-- UML Package Diagram
-- UML Component Diagram
 
-## The attached analysis report includes:
-- Background and Motivation
-- Functional Requirements
-- Non-Functional Requirements
-- Object and Class Model
-- User Interface 
+## The attached report includes:
+![image](https://user-images.githubusercontent.com/17355685/192619450-87c6484b-5649-4580-bb98-084f93a6221c.png)
 
-## Assets & Game Dynamics
+## Mobile application demo video:
 
-## Some diagrams in the project:
-- Game Engine Activity Diagram
-- Sequence Diagrams - Registration
-- UML Package Diagram
+
+https://user-images.githubusercontent.com/17355685/192622072-f28219b8-7284-474c-b1e2-3a542a61a07b.mp4
+
+
+
+
+
 
 
